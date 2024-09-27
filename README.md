@@ -2,6 +2,17 @@
 
 ## Requisitos funcionais (RF)
 
+# Módulo de Usuários
+RF01: O sistema deve permitir o cadastro de novos usuários.
+RF02: O sistema deve permitir a autenticação de usuários cadastrados.
+RF03: O sistema deve permitir a recuperação de senha por e-mail.
+RF04: O sistema deve permitir a exclusão da conta do usuário.
+RF05: O sistema deve permitir a visualização do perfil do usuário.
+RF06: O sistema deve permitir a edição do perfil do usuário.
+RF07: O sistema deve permitir a alteração da senha do usuário.
+RF08: O sistema deve permitir a alteração do e-mail do usuário.
+RF09: O sistema deve permitir a Autenticação de dois fatores usando Google Authenticator.
+
 # Módulo de Aplicações
 RF01: O sistema deve permitir ao usuário cadastrar, editar e remover aplicações financeiras.
 RF02: O sistema deve permitir ao usuário consultar detalhes de cada aplicação (nome, valor, rendimento, data de aplicação, etc.).
